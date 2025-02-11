@@ -1,1 +1,1 @@
-This repo is of Intership project.
+This repo is of my Intership at Oasis Infobyte.
